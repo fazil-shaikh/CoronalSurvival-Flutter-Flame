@@ -29,7 +29,7 @@ Gameover:
 From this project, I learned that when you have a idea about something you are really interested in making, you should just do it. I really liked using Flutter and the Flame game engine to build this small game. It didn't take me too long to understand all the different functionalities the game engine has to offer and the rest was just researching as I developed the game. Flame offers a nice set of features for 2D games. It's nothing like game design in Unity or Unreal but it was simple to use and had everything I needed to bring this project to life. This is a first draft product and with more time I would have added extra screens and separate dialog boxes for instructions, highscores, and perhaps even a profile page for users. For now this will do. I enjoyed coding in Dart (simple but powerful) and Flutter's organized layout, ability to hot reload, and its own UI drawing tool made it a great overall sdk to work with.
 
 ## Demo
-[![Demo](https://share.gifyoutube.com/6XAjW9.gif)](https://youtu.be/a6zucl8Wvcc)
+[![Demo](https://img.youtube.com/vi/a6zucl8Wvcc/0.jpg)](https://www.youtube.com/watch?v=a6zucl8Wvcc)
 
 ## Screenshots
 
